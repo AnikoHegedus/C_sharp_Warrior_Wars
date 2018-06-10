@@ -1,1 +1,1 @@
-c_sharp
+An easy game to practice OOP in C#
