@@ -57,7 +57,7 @@ namespace WarriorWars
             }
             else
             {
-                System.Console.WriteLine($"{name} attacks {enemy.name}. {damage} damage was inflicted to {enemy.name}, remaining health of {enemy.name} is {enemy.health}.");
+                System.Console.WriteLine($"{name} attacked {enemy.name}. {damage} damage was inflicted to {enemy.name}, remaining health of {enemy.name} is {enemy.health}.");
             }
         }
     }
